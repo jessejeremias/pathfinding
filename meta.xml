@@ -1,0 +1,10 @@
+<meta>
+	<info author="Goonz" description="Pathfinding system" type="script" version="1.0.0" edf:definition="nodeCreator.edf" />
+
+	<oop>true</oop>
+
+	<script src="a-star.lua" type="server" />
+
+	<script src="server_pathfinding.lua" type="server" />
+	<script src="client_pathfinding.lua" type="client" protected="true" />
+</meta>

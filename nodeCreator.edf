@@ -1,0 +1,6 @@
+<def name="Node Creator">
+    <element name="node" friendlyname="Node" instructions="Place your node in a place that is not obstructed by any objects.">
+        <data name="position" type="coord3d" default="0,0,0" />
+        <object editorOnly="true" model="3092" posZ="1" />
+    </element>
+</def>
